@@ -1,0 +1,11 @@
+{
+  "name": "jsnake-game",
+  "version": "1.0.0",
+  "description": "JSnake es un clásico juego de Snake desarrollado con JavaScript, HTML y CSS. Cuenta con un diseño futurista y responsivo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaby",
+  "license": "ISC"
+}
